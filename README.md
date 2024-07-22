@@ -1,6 +1,6 @@
 # gssshinfcd - Gain-scheduled state-space $\mathcal{H}_\infty$ control design for linear parameter-varying systems
 
-### Gain-scheduled version of []`sshinfcd`](https://github.com/meco-group/sshinfcd). 
+### Gain-scheduled version of [`sshinfcd`](https://github.com/meco-group/sshinfcd). 
 
 Experimental implementation for internal usage. The methodology is based on
 
